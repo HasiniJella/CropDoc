@@ -1,4 +1,4 @@
-﻿# 🌿 CropDoc AI — Intelligent Crop Disease Detection for Indian Farmers
+﻿# 🌿 CropDoc AI : Intelligent Crop Disease Detection for Indian Farmers
 
 <div align="center">
 
